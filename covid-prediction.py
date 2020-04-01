@@ -91,4 +91,6 @@ print (extended_model_sim)
 # siec neuronowa tanh bartosz growiec 
 # zwykła exp  2.2604 EXP 0,2897x 
 # https://rmostowy.github.io/covid-19/prognoza-polska/
-
+# https://en.wikipedia.org/wiki/Logistic_distribution
+# https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d
+# https://medium.com/analytics-vidhya/predicting-the-spread-of-covid-19-coronavirus-in-us-daily-updates-4de238ad8c26
