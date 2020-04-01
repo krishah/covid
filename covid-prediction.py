@@ -86,4 +86,9 @@ pd.concat([extended_model_sim, poland_covid_19_summary], axis=1)
 
 print (extended_model_sim)
 
+# @studiobtg  Krzywa logistyczna A/B+EXP((-x+D)/E) A=9200, B=2, D=31,22, E=4,8 .. 4,3
+#  7dniowa EXP odcięta * EXP dzienny przyrost * T ) (odcięta 14,41 , dzienny przyrost 13,1%) pesymistyczna (odcięta 3,13 , dzienny przyrost 19,3%) przyrost  (C23/C22)-1)
+# siec neuronowa tanh bartosz growiec 
+# zwykła exp  2.2604 EXP 0,2897x 
+# https://rmostowy.github.io/covid-19/prognoza-polska/
 
